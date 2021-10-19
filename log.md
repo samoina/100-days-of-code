@@ -14,6 +14,7 @@
 I also had a look at media queries, and how I can use that for a more responsive website (mobile-first). I started on Bootstrap too, and will be going through the modules plus a task that I will begin tomorrow.
 
 Link: https://samoina.github.io/samoina-portfolio/
+      https://samoina.github.io/bootstrap-practice/
 
 **Thoughts** Life happens, but I have to make coding a priority if I am to get better at it. 
 

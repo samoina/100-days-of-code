@@ -8,4 +8,10 @@
 
 
 
-### Day 
+### Day 2: October 19th 2021
+
+**Today's Progress**: I finished my IP for creating my portfolio with a little help from Traversy's video on creating a responsive website. I've been doing this for a couple of weeks (on and off - not really my best of ways). But I have some more clarity on using Flex-box to layout images (as an option to floats). I struggled a bit here because I was putting the flex-box properties on the wrong container (not the parent container). For the same layout, i used order-box for box sizing for its direct children, and understood the oject-fit CSS property better. 
+
+I also had a look at media queries, and how I can use that for a more responsive website (mobile-first)
+
+**Thoughts** Life happens, but I have t make coding a priority if I am to get better at it. 

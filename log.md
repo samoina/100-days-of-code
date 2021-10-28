@@ -19,7 +19,7 @@ Link: https://samoina.github.io/samoina-portfolio/
 **Thoughts** Life happens, but I have to make coding a priority if I am to get better at it. 
 
 
-### Day 4: October 20th 2021
+### Day 4: October 28th 2021 (I had a couple of mental breakdowns these past few days and I have been eating myself up for it, but coming back on here, stronger)
 **Today's Progress**:
 
 Link: 
@@ -34,3 +34,5 @@ Link:
 Link: 
 
 **Thoughts**
+
+

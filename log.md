@@ -27,7 +27,7 @@ Link:
 **Thoughts**
 
 
-### Day 5: October 21st 2021
+### Day 5: October 29th 2021
 
 **Today's Progress**:
 

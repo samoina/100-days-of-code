@@ -27,9 +27,14 @@ Link:
 **Thoughts**
 
 
-### Day 5: October 29th 2021
+### Day 5: Wednesday 10th November 2021
 
-**Today's Progress**:
+**Today's Progress**: I have been coding in the past few days, I just haven't been consistent with logging in that progress. I did get an extension that tracks my work yesterday, so that's motivating me to get some work done. Doing projects that will hone my HTML and CSS, once I have a basic understanding I move on to Javascript.
+
+Today I needed to create a grid and used Bootstrap columns (but was not able to create spaces even after offsetting the columns using col-md-offset-1. Will look at this with a fresh pair of eyes)
+
+Completed in the past few days: https://samoina.github.io/barbershop/
+Currently working on a website that sells baby clothes. Using HTML & CSS
 
 Link: 
 

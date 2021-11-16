@@ -50,13 +50,13 @@ Link:
 **Thoughts**: Consistency trumps intensity. An hour's practice daily is better than 10 hours every fortnight. 
 
 
-### Day 7
+### Day 8 Tuesday 16th November 2021
 
-**Today's Progress**: 
+**Today's Progress**: Started on creating the product page for the baby shop website. Saw that I could actually do it using Flexbox so that's what I have started on. This is definitely making flexbox a lot easier to understand. I have always seeing 'flex-grow' and 'flex-shrink' without really understanding what that does to the children of the flex parent, so pretty stoked to see how this will go. 
 
 **Link**
 
-**Thoughts** 
+**Thoughts** I am so proud of myself for taking an hour to code this evening (when what I thought I would do is binge a littu on the Good Doctor). Sometimes, it doesn't feel like there's progress, but I remind myself that I am showing up, and in learning software devt, that counts (as does learning anything, really)
 
 
 

@@ -41,7 +41,7 @@ Link:
 **Thoughts**
 
 
-### Day 6: Monday 15th November 2021
+### Day 7: Monday 15th November 2021
 
 **Today's Progress**: Spent less than 30 minutes coding yesterday, so that doesn't really count. Last week was going well till I got my 2nd C0v1d Jab and my body just sort of slowed down. Today I continue with the baby clothes website. I could say I am getting the hang of flexbox. I also added media queries for the landing page (It makes me a littu happy when I remember how I always avoided mediaqueries because they sounded complicated. Practise I guess...). Oh, and I learnt how to add a horizontal line to HTML using <hr> and that one tiny thing makes me oh so happy. 
 

@@ -60,23 +60,14 @@ Link:
 
 
 
-### Day 8
+### Day 9 Wednesday 17th November 2021
 
-**Today's Progress**: 
-
-**Link**
-
-**Thoughts** 
-
-
-
-### Day 9
-
-**Today's Progress**: 
+**Today's Progress**: I created the product layout using Flexbox, really loving this learning process. I better understood flex-grow, and flex-basis (which sets the initial length of a flex item). im my product-layout, i used it to arrange 5 items in a row, and wrap the rest onto the next. I also made the entire layout responsive using mediaqueries. When I started out, I was quite sceptical because I often wondered how to make a site responsive for each and every gadget, but later learnt it is better to provide ranges and design content to be responsive within those ranges.
 
 **Link**
 
-**Thoughts** 
+**Thoughts**: I can't wait to see where I will be as a software dev in one year's time, November 2022.
+
 
 
 ### Day 10
@@ -89,6 +80,15 @@ Link:
 
 
 ### Day 11
+
+**Today's Progress**: 
+
+**Link**
+
+**Thoughts** 
+
+
+### Day 12
 
 **Today's Progress**: 
 

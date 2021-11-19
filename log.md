@@ -62,7 +62,7 @@ Link:
 
 ### Day 9 Wednesday 17th November 2021
 
-**Today's Progress**: I created the product layout using Flexbox, really loving this learning process. I better understood flex-grow, and flex-basis (which sets the initial length of a flex item). im my product-layout, i used it to arrange 5 items in a row, and wrap the rest onto the next. I also made the entire layout responsive using mediaqueries. When I started out, I was quite sceptical because I often wondered how to make a site responsive for each and every gadget, but later learnt it is better to provide ranges and design content to be responsive within those ranges.
+**Today's Progress**: I created the product layout using Flexbox, really loving this learning process. I better understood flex-grow, and flex-basis (which sets the initial length of a flex item). in my product-layout, i used it to arrange 5 items in a row, and wrap the rest onto the next. I also made the entire layout responsive using mediaqueries. When I started out, I was quite sceptical because I often wondered how to make a site responsive for each and every gadget, but later learnt it is better to provide ranges and design content to be responsive within those ranges.
 
 **Link**
 
@@ -70,22 +70,22 @@ Link:
 
 
 
-### Day 10
+### Day 10 Thursday 18th November 2021
 
-**Today's Progress**: 
-
-**Link**
-
-**Thoughts** 
-
-
-### Day 11
-
-**Today's Progress**: 
+**Today's Progress**: I finished up on the Product and Contact page, and created the contact form on the latter. I added a map - realizing it uses JS which I haven't practised in a minute. It loads, but it gives me a pop-up screen that reads: "This page can't load Google Maps correctly.Do you own this website?" Granted, I am a little rusty with JS right now, so this is something I need to get back to correctly. 
 
 **Link**
 
-**Thoughts** 
+**Thoughts** I set a daily target of 2 hours of coding per day, except Sundays. This coming week I want to deep dive into Js.
+
+
+### Day 11 Friday 19th November 2021
+
+**Today's Progress**: I finally figured, with the help of @McBool, that the reason my map was giving that error pop-up screen was because I needed to add Billing details on the Google Cloud Platform after I got the API key - and had nothing to do with JS. I did want to add a marker to the map though, but I have honestly forgotten how to workout JS functions. This will be next week's goal though. But I am stoked with the steps I am taking in my learning journey.
+
+**Link**: https://samoina.github.io/tots-tois/index.html
+
+**Thoughts**: I still have some way to go, because the site above isn't 'smooth' the way I'd want it to be, but I am definitely better that I was at the start of November. If there's anything this journey is teaching me, is to celebrate the wins, especially the small wins. They are fuel to keep going. 
 
 
 ### Day 12
